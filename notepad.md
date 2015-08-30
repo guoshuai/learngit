@@ -1,5 +1,9 @@
-```ruby
-require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
-puts markdown.to_html
+```java
+public void main(String[] args){
+}
+```
+```java
+static{
+  //some comments
+}
 ```
